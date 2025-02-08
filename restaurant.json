@@ -1,0 +1,192 @@
+[
+  {
+    "id": "1",
+    "name": "Gourmet Delights",
+    "spécialité": "French Cuisine",
+    "rating": 4.5,
+    "website": "http://www.gourmetdelights.com",
+    "phone": "+1 (123) 456-7890",
+    "location": "123 Main Street, Cityville, USA",
+    "horaires": {
+      "monday": "10:00 AM - 8:00 PM",
+      "tuesday": "10:00 AM - 8:00 PM",
+      "wednesday": "Closed",
+      "thursday": "10:00 AM - 8:00 PM",
+      "friday": "10:00 AM - 10:00 PM",
+      "saturday": "12:00 PM - 10:00 PM",
+      "sunday": "12:00 PM - 6:00 PM"
+    },
+    "img_src": "https://www.civitatis.com/f/marruecos/tanger/galeria/gastronomia-tanger.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Spice Fusion",
+    "spécialité": "French Cuisine",
+    "rating": 1.2,
+    "website": "http://www.spicefusion.com",
+    "phone": "+1 (234) 567-8901",
+    "location": "456 Oak Avenue, Townsville, USA",
+    "horaires": {
+      "monday": "11:00 AM - 9:00 PM",
+      "tuesday": "11:00 AM - 9:00 PM",
+      "wednesday": "Closed",
+      "thursday": "11:00 AM - 9:00 PM",
+      "friday": "11:00 AM - 10:30 PM",
+      "saturday": "12:30 PM - 10:30 PM",
+      "sunday": "1:00 PM - 7:00 PM"
+    },
+    "img_src": "https://img.lemde.fr/2022/06/03/0/0/1500/1098/664/0/75/0/384bf54_197787-3276007.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Sushi Haven",
+    "spécialité": "Japanese Sushi",
+    "rating": 2.8,
+    "website": "http://www.sushihaven.com",
+    "phone": "+1 (345) 678-9012",
+    "location": "789 Pine Street, Riverside, USA",
+    "horaires": {
+      "monday": "12:00 PM - 9:00 PM",
+      "tuesday": "12:00 PM - 9:00 PM",
+      "wednesday": "Closed",
+      "thursday": "12:00 PM - 9:00 PM",
+      "friday": "12:00 PM - 10:00 PM",
+      "saturday": "1:00 PM - 10:00 PM",
+      "sunday": "1:00 PM - 7:00 PM"
+    },
+    "img_src": "https://m1.quebecormedia.com/emp/emp/cafe_du_the_a_tre1961f163-99a8-4156-93c5-0b666943ae81_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=512&h=512&width=1400"
+  },
+  {
+    "id": "4",
+    "name": "Taste of Thailand",
+    "spécialité": "Japanese Sushi",
+    "rating": 3.4,
+    "website": "http://www.tasteofthailand.com",
+    "phone": "+1 (456) 789-0123",
+    "location": "101 Cherry Avenue, Hilltop, USA",
+    "horaires": {
+      "monday": "11:30 AM - 8:30 PM",
+      "tuesday": "11:30 AM - 8:30 PM",
+      "wednesday": "Closed",
+      "thursday": "11:30 AM - 8:30 PM",
+      "friday": "11:30 AM - 9:30 PM",
+      "saturday": "12:30 PM - 9:30 PM",
+      "sunday": "12:30 PM - 6:30 PM"
+    },
+    "img_src": "https://media-cdn.tripadvisor.com/media/photo-s/01/cb/eb/d1/resto-interior.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Mamma Mia Pizzeria",
+    "spécialité": "Italian Pizza",
+    "rating": 4.6,
+    "website": "http://www.mammamiapizzeria.com",
+    "phone": "+1 (567) 890-1234",
+    "location": "321 Olive Boulevard, Lakeside, USA",
+    "horaires": {
+      "monday": "11:00 AM - 9:00 PM",
+      "tuesday": "11:00 AM - 9:00 PM",
+      "wednesday": "Closed",
+      "thursday": "11:00 AM - 9:00 PM",
+      "friday": "11:00 AM - 10:00 PM",
+      "saturday": "12:00 PM - 10:00 PM",
+      "sunday": "12:00 PM - 8:00 PM"
+    },
+    "img_src": "https://media-cdn.tripadvisor.com/media/photo-s/14/cc/50/2e/photo0jpg.jpg"
+  },
+  {
+    "id": "6",
+    "name": "The Grill House",
+    "spécialité": "Italian Pizza",
+    "rating": 1.3,
+    "website": "http://www.grillhouse.com",
+    "phone": "+1 (678) 901-2345",
+    "location": "567 Maple Street, Uptown, USA",
+    "horaires": {
+      "monday": "5:00 PM - 10:00 PM",
+      "tuesday": "5:00 PM - 10:00 PM",
+      "wednesday": "Closed",
+      "thursday": "5:00 PM - 10:00 PM",
+      "friday": "5:00 PM - 11:00 PM",
+      "saturday": "4:00 PM - 11:00 PM",
+      "sunday": "4:00 PM - 8:00 PM"
+    },
+    "img_src": "https://media-cdn.tripadvisor.com/media/photo-s/19/3a/96/7a/fruhstucksbuffet.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Vegetarian Delights",
+    "spécialité": "Mocrocan Food",
+    "rating": 2.7,
+    "website": "http://www.vegetariandelights.com",
+    "phone": "+1 (789) 012-3456",
+    "location": "876 Elm Street, Downtown, USA",
+    "horaires": {
+      "monday": "10:30 AM - 8:30 PM",
+      "tuesday": "10:30 AM - 8:30 PM",
+      "wednesday": "Closed",
+      "thursday": "10:30 AM - 8:30 PM",
+      "friday": "10:30 AM - 9:30 PM",
+      "saturday": "11:30 AM - 9:30 PM",
+      "sunday": "11:30 AM - 7:30 PM"
+    },
+    "img_src": "https://www.restoreal.be/src/Frontend/Files/MediaLibrary/02/resto-real-koksijde-interieur-3.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Seafood Cove",
+    "spécialité": "Mocrocan Food",
+    "rating": 3.9,
+    "website": "http://www.seafoodcove.com",
+    "phone": "+1 (890) 123-4567",
+    "location": "234 Beach Road, Seaside, USA",
+    "horaires": {
+      "monday": "12:00 PM - 9:00 PM",
+      "tuesday": "12:00 PM - 9:00 PM",
+      "wednesday": "Closed",
+      "thursday": "12:00 PM - 9:00 PM",
+      "friday": "12:00 PM - 10:00 PM",
+      "saturday": "1:00 PM - 10:00 PM",
+      "sunday": "1:00 PM - 7:00 PM"
+    },
+    "img_src": "https://resto-troc.fr/wp-content/uploads/2020/07/Bandeau-accueil-1024x586.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Café Latte Art",
+    "spécialité": "Coffee and Desserts",
+    "rating": 4.4,
+    "website": "http://www.cafelatteart.com",
+    "phone": "+1 (901) 234-5678",
+    "location": "789 Broadway Avenue, Midtown, USA",
+    "horaires": {
+      "monday": "7:00 AM - 8:00 PM",
+      "tuesday": "7:00 AM - 8:00 PM",
+      "wednesday": "Closed",
+      "thursday": "7:00 AM - 8:00 PM",
+      "friday": "7:00 AM - 9:00 PM",
+      "saturday": "8:00 AM - 9:00 PM",
+      "sunday": "8:00 AM - 6:00 PM"
+    },
+    "img_src": "https://media-cdn.tripadvisor.com/media/photo-s/1a/b9/69/17/resto-novo.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Mediterranean Breeze",
+    "spécialité": "Coffee and Desserts",
+    "rating": 2.6,
+    "website": "http://www.mediterraneanbreeze.com",
+    "phone": "+1 (012) 345-6789",
+    "location": "876 Cypress Lane, Greenfield, USA",
+    "horaires": {
+      "monday": "11:30 AM - 8:30 PM",
+      "tuesday": "11:30 AM - 8:30 PM",
+      "wednesday": "Closed",
+      "thursday": "11:30 AM - 8:30 PM",
+      "friday": "11:30 AM - 9:30 PM",
+      "saturday": "12:30 PM - 9:30 PM",
+      "sunday": "12:30 PM - 7:30 PM"
+    },
+    "img_src": "https://www.restorumeur.ca/wp-content/uploads/2020/02/resto-bistro-rumeur-bar-lounge-5D4_6174-Edit-950x633-1.jpg"
+  }
+]

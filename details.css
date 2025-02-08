@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Poppins:ital,wght@0,400;0,600;1,400&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F6F1EE;
+    font-family: 'Itim';
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 10vh;
+    border-bottom: 1px #7D7D7D solid;
+}
+nav h1{
+    color: #ED7D31;
+    font-size: 35px;
+}
+img{
+    width: 80%;
+    clip-path: polygon(0.45% 17.47%, 0.52% 2.92%, 99.45% 3.35%, 99.04% 18.28%);
+}
+.horaire{
+    position: absolute;
+    top: 45%;
+    left: 15%;
+}
+.specialite{
+    position: absolute;
+    top: 45%;
+    left: 60%;
+    width: 30%;
+}
+.contact{
+    position: absolute;
+    top: 75%;
+    left: 15%;
+    width: 30%;
+}
+.location{
+    position: absolute;
+    top: 70%;
+    left: 60%;
+    width: 30%;
+    
+}
+.location iframe{
+    height: 80%;
+    width: 80%;
+}
+.horaire p, .contact p{
+    color: #7D7D7D;
+    font-size: 140%;
+}
+span{
+    color: black;
+    font-size: 70%;
+}
+h2{
+    color: #ED7D31;
+    margin-bottom: 3%;
+}
